@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SadatArefin
-- I am fluent in HTML, CSS, Bootstrap, Tailwind, Javascript, React, NextJS, MaterialUI, Bash, Linux, Apache, Nginx, Git, Typescript, SQL
+- I am fluent in HTML, CSS, Bootstrap, Tailwind, Javascript, React, NextJS, MaterialUI, Bash, Linux, Apache, Nginx, Git, Typescript, SQL, MongoDB
 - I am familiar with C, C++, C#, Dotnet Core, Java, Flutter, Docker, Firebase, Python, Django, Data Science Concepts, Wordpress, Design Patterns, OWASP Listed vulnerabilities
 - 👀 I’m interested in Frontend Development, Backend Development, Cloud Technologies, DevOps, System Administration
 - 🌱 I’m currently learning Angular, Spring, AWS
