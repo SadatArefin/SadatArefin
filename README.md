@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @SadatArefin
-- I am fluent in HTML, CSS, Bootstrap, Tailwind, Javascript, React, NextJS, MaterialUI, Bash, Linux, Apache, Nginx, Git, Typescript, SQL, MongoDB
-- I am familiar with C, C++, C#, Dotnet Core, Java, Flutter, Docker, Firebase, Python, Django, Data Science Concepts, Wordpress, Design Patterns, OWASP Listed vulnerabilities
+- I am fluent in C#, TypeScript, .NET Core, Angular, React, NextJS, HTML, CSS, Bootstrap, Tailwind, Javascript, MaterialUI, Bash, Linux, Apache, Nginx, Git, SQL, MongoDB, Docker
+- I am familiar with Azure, AWS, Python, Data Science Concepts, Java, Flutter, Firebase, Wordpress, Design Patterns, OWASP Listed vulnerabilities
 - 👀 I’m interested in Software Quality Assurance, Frontend Development, Backend Development, Cloud Technologies, DevOps, System Administration
-- 🌱 I’m currently learning Jest, Selenium, TestNG, Junit, Spring
-- 💞️ I’m looking to collaborate on Open Source projects & open for any jon opportunities
+- 🌱 I’m actively working to get better at C#, TypeScript, Angular, .NET Core, Docker, AWS and Azure to work in enterprise web development
+- 💞️ I’m open for any job opportunities & looking to collaborate on any Open Source projects specially on npm and nuget packages.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/sadat-arefin-rafat/) [Facebook](https://www.facebook.com/sadat.arefin.dev)
 
 <!---
