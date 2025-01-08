@@ -1,10 +1,10 @@
 # Hi there, I'm Sadat Arefin Rafat 👋
 
-I'm a software engineer with full-stack experience in .NET, Angular, and the MERN stack with Next.js. I'm also actively improving my skills in database administration, cloud computing technologies, and software architecture.
+I'm a software engineer with full-stack experience in .NET, Blazor, Django, Angular, and the MERN stack with Next.js. I'm also actively improving my skills in database administration, cloud computing technologies, and software architecture.
 
 ## About Me
 
-- 🌐 **Current Technologies:** .NET (Web API & MVC), Blazor, WPF, Azure (DevOps, App Services, Application Insights, Elastic Pool, Azure SQL, Function App, Active Directory B2C), SQL Server, and Revit API for [my current project](https://rensa.nl/kennis-en-diensten/digitaal/revit).
+- 🌐 **Current Technologies:** .NET (Web API & MVC), Blazor, Django, WPF, Azure (DevOps, App Services, Application Insights, Elastic Pool, Azure SQL, Function App, Active Directory B2C), SQL Server, and Revit API for [my current project](https://rensa.nl/kennis-en-diensten/digitaal/revit).
 - 💻 **Proficient With:** React, Next.js, Angular, MongoDB, Docker.
 - 🛠️ **Familiar With:** Cloud & Microservice Design Patterns, OWASP Listed Vulnerabilities.
 - 🌱 **Learning:** Redis for caching, Elastic Search for improved searching, SignalR for real-time messaging.
