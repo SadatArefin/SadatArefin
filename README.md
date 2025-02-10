@@ -6,27 +6,29 @@ I'm a passionate software engineer dedicated to building scalable, maintainable,
 
 ## 🛠️ Technologies & Tools
 
-### Current Technologies
-- **Backend:** .NET (Web API & MVC), Django, WPF, Revit API (for current projects)
-- **Frontend:** Blazor, Angular, React, Next.js
-- **Cloud & DevOps:** Azure (DevOps, App Services, Application Insights, Elastic Pool, Azure SQL, Function App, Active Directory B2C)
-- **Databases:** SQL Server, MongoDB
+### Technologies I professionally worked with
+- **Backend:** .NET (Web API & MVC), Django, WPF, Revit API
+- **Frontend:** Blazor, Angular, React/Next.js
+- **Cloud & DevOps:** Azure (DevOps, App Services, Application Insights, Elastic Pool, Azure SQL, Function App, Entra)
+- **Databases:** SQL Server, PostgerSQL, MongoDB
 - **Containerization:** Docker
 
 ### Proficient In
 - Modern front-end frameworks (React, Next.js, Angular)
-- Cloud deployment and container orchestration (Docker)
+- Cloud deployment and container orchestration (Docker & Kubernetes)
 - Database management and optimization
 
 ### Familiar With
 - Cloud & Microservice Design Patterns
 - Secure coding practices and OWASP vulnerability management
-
-### Currently Learning
 - **Redis:** For efficient caching strategies
 - **Elastic Search:** To enhance search functionalities
 - **SignalR:** For implementing real-time messaging
 
+### Currently Learning
+- **Machine Learning Concepts:** Mainly revisiting the concepts again for future opportunities in ML, MLOps etc
+- **Cyber Security Concepts:** Focusing on web security & website pentesting.
+- 
 ---
 
 ## 🚀 Interests & Focus
@@ -37,8 +39,8 @@ I'm a passionate software engineer dedicated to building scalable, maintainable,
 ---
 
 ## 💼 Professional Experience
-- **Current Role:** Collaborating with [Rensa Family](#) (a major wholesale installation company) on behalf of HawarIT Limited (a Dutch-Bangladeshi company)
-- **Availability:** Open to new opportunities starting **August 2025**
+- **Current Role:** Collaborating with [Kavel10](https://en.kavel10.nl/) (a pioneer in aerial surveying) & previously collaborated with [Rensa Family](https://rensa.nl/) (a major wholesale installation company) on behalf of HawarIT Limited (a Dutch-Bangladeshi software company)
+- **Availability:** Open to new opportunities starting **August 2025** as my current role has commitment requirement until then.
 - **Collaboration:** Eager to contribute to open-source projects and explore innovative ideas for new ventures
 
 ---
@@ -47,4 +49,4 @@ I'm a passionate software engineer dedicated to building scalable, maintainable,
 - [LinkedIn](https://www.linkedin.com/in/sadat-arefin-rafat/)
 - [Facebook](https://www.facebook.com/sadat.arefin.dev)
 
-Thanks for stopping by!
+Thanks for stopping by! Feel free to reach out if you're interested in discussing technology, software architecture, or potential collaborations.
