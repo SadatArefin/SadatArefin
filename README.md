@@ -1,22 +1,47 @@
 # Hi there, I'm Sadat Arefin Rafat 👋
 
-I'm a software engineer with full-stack experience in .NET, Blazor, Django, Angular, and the MERN stack with Next.js. I'm also actively improving my skills in database administration, cloud computing technologies, and software architecture.
+I'm a passionate software engineer dedicated to building scalable, maintainable, and secure full-stack applications. With extensive experience in technologies like .NET, Blazor, Django, Angular, and the MERN stack with Next.js, I continuously work to deepen my knowledge in database administration, cloud computing, software architecture, machine learning & cyber security
 
-## About Me
+---
 
-- 🌐 **Current Technologies:** .NET (Web API & MVC), Blazor, Django, WPF, Azure (DevOps, App Services, Application Insights, Elastic Pool, Azure SQL, Function App, Active Directory B2C), SQL Server, and Revit API for [my current project](https://rensa.nl/kennis-en-diensten/digitaal/revit).
-- 💻 **Proficient With:** React, Next.js, Angular, MongoDB, Docker.
-- 🛠️ **Familiar With:** Cloud & Microservice Design Patterns, OWASP Listed Vulnerabilities.
-- 🌱 **Learning:** Redis for caching, Elastic Search for improved searching, SignalR for real-time messaging.
-- 🚀 **Interests:** Scalable, maintainable, secure, and efficient full-stack development in the cloud.
-- 📚 **Improving:** User Experience, Software Architectures & Principles, Secure Software Development.
+## 🛠️ Technologies & Tools
 
-## Professional Experience
+### Current Technologies
+- **Backend:** .NET (Web API & MVC), Django, WPF, Revit API (for current projects)
+- **Frontend:** Blazor, Angular, React, Next.js
+- **Cloud & DevOps:** Azure (DevOps, App Services, Application Insights, Elastic Pool, Azure SQL, Function App, Active Directory B2C)
+- **Databases:** SQL Server, MongoDB
+- **Containerization:** Docker
 
-- 💼 **Current Role:** Working with [Rensa Family](https://rensa.nl), a major wholesale installation company, on behalf of [HawarIT Limited](https://www.hawarit.com/), a Dutch-Bangladeshi company.
-- 📅 **Availability:** Open to new opportunities from August 2025 or later.
-- 🤝 **Collaboration:** Looking to collaborate on open-source projects and exploring ideas for my own projects.
+### Proficient In
+- Modern front-end frameworks (React, Next.js, Angular)
+- Cloud deployment and container orchestration (Docker)
+- Database management and optimization
 
+### Familiar With
+- Cloud & Microservice Design Patterns
+- Secure coding practices and OWASP vulnerability management
+
+### Currently Learning
+- **Redis:** For efficient caching strategies
+- **Elastic Search:** To enhance search functionalities
+- **SignalR:** For implementing real-time messaging
+
+---
+
+## 🚀 Interests & Focus
+- Crafting secure, efficient, and cloud-first full-stack solutions
+- Improving user experience through refined software architectures and design principles
+- Staying current with advancements in secure software development and DevOps practices
+
+---
+
+## 💼 Professional Experience
+- **Current Role:** Collaborating with [Rensa Family](#) (a major wholesale installation company) on behalf of HawarIT Limited (a Dutch-Bangladeshi company)
+- **Availability:** Open to new opportunities starting **August 2025**
+- **Collaboration:** Eager to contribute to open-source projects and explore innovative ideas for new ventures
+
+---
 ## Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/sadat-arefin-rafat/)
