@@ -7,11 +7,13 @@ I'm a passionate software engineer dedicated to building scalable, maintainable,
 ## 🛠️ Technologies & Tools
 
 ### Technologies I professionally worked with
-- **Backend:** .NET (Web API & MVC), Django, WPF, Revit API
-- **Frontend:** Blazor, Angular, React/Next.js
-- **Cloud & DevOps:** Azure (DevOps, App Services, Application Insights, Elastic Pool, Azure SQL, Function App, Entra)
-- **Databases:** SQL Server, PostgerSQL, MongoDB
-- **Containerization:** Docker
+- **Backend:** .NET (Web API 6-10+, MVC 6+ & Framework 4.8), Django, WPF, Revit API
+- **Frontend:** Blazor, Angular 16-19+, React/Next.js 13-18+
+- **Cloud & DevOps:** Azure (DevOps, App Services, Application Insights, Elastic Pool, Azure SQL, Function App, Entra), Git, SVN
+- **Databases:** SQL Server, PostgerSQL, MongoDB, ChromaDB
+- **Scripting & Web Scraping:** Python, Bash
+- **AI Tools:** Ollama, Claude API, OpenAI API, Google AI Studio, Deepseek, Perplexilty, Scispace, Github Copilot Pro
+- **Containerization:** Docker, Kubernetes
 
 ### Proficient In
 - Modern front-end frameworks (React, Next.js, Angular)
@@ -24,11 +26,12 @@ I'm a passionate software engineer dedicated to building scalable, maintainable,
 - **Redis:** For efficient caching strategies
 - **Elastic Search:** To enhance search functionalities
 - **SignalR:** For implementing real-time messaging
+- **RabbitMQ:** For message queue
 
 ### Currently Learning
-- **Machine Learning Concepts:** Mainly revisiting the concepts again for future opportunities in ML, MLOps etc
-- **Cyber Security Concepts:** Focusing on web security & website pentesting.
-- 
+- **Machine Learning Concepts:** Currently exploring RAG, Agents, Agentic RAG, MCP Server etc.
+- **Cyber Security Concepts:** Focusing on web security & website pentesting through TryHackMe
+
 ---
 
 ## 🚀 Interests & Focus
