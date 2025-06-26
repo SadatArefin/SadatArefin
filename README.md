@@ -1,55 +1,69 @@
 # Hi there, I'm Sadat Arefin Rafat 👋
 
-I'm a passionate software engineer dedicated to building scalable, maintainable, and secure full-stack applications. With extensive experience in technologies like .NET, Blazor, Django, Angular, and the MERN stack with Next.js, I continuously work to deepen my knowledge in database administration, cloud computing, software architecture, machine learning & cyber security
+I'm a passionate software engineer enthusiastic about building valuable, scalable, and maintainable full-stack applications that generate real-world value. With extensive experience in technologies like .NET, Blazor, Django, and Angular, I continuously work to deepen my knowledge in database administration, cloud computing, software architecture, and machine learning.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### Technologies I professionally worked with
-- **Backend:** .NET (Web API 6-10+, MVC 6+ & Framework 4.8), Django, WPF, Revit API
-- **Frontend:** Blazor, Angular 16-19+, React/Next.js 13-18+
-- **Cloud & DevOps:** Azure (DevOps, App Services, Application Insights, Elastic Pool, Azure SQL, Function App, Entra), Git, SVN
-- **Databases:** SQL Server, PostgerSQL, MongoDB, ChromaDB
+### Technologies I've Worked With
+- **Backend:** .NET (Core/8+, Framework 4.8), Django, Node.js, Nest.js, Laravel, PHP, Revit API, WPF
+- **Frontend:** TypeScript, Angular (16+), React, Next.js (13+), Blazor, JavaScript, HTML, CSS, Tailwind CSS, Material UI, Bootstrap, Ext.js
+- **Databases:** SQL Server, PostgreSQL, MySQL, MongoDB, ChromaDB
+- **Cloud & DevOps:** Azure (DevOps, App Services, Application Insights, Elastic Pool, Azure SQL, Function App, Entra), Docker, Kubernetes, Git, SVN
+- **Web Servers:** IIS, Nginx, Kestrel
+- **AI Tools & GenAI:** OpenAI API, Gemini, Claude, Ollama, LangChain, LlamaIndex, RAG & Agentic Patterns, Figma, GitHub Copilot Pro
 - **Scripting & Web Scraping:** Python, Bash
-- **AI Tools:** Ollama, Claude API, OpenAI API, Google AI Studio, Deepseek, Perplexilty, Scispace, Github Copilot Pro
-- **Containerization:** Docker, Kubernetes
-
-### Proficient In
-- Modern front-end frameworks (React, Next.js, Angular)
-- Cloud deployment and container orchestration (Docker & Kubernetes)
-- Database management and optimization
 
 ### Familiar With
-- Cloud & Microservice Design Patterns
-- Secure coding practices and OWASP vulnerability management
-- **Redis:** For efficient caching strategies
-- **Elastic Search:** To enhance search functionalities
-- **SignalR:** For implementing real-time messaging
-- **RabbitMQ:** For message queue
+- **Cloud & Microservice Design Patterns**
+- **Secure Coding Practices:** OWASP Vulnerability Management
+- **Caching & Messaging:** Redis, SignalR, RabbitMQ
+- **Search:** Elasticsearch
 
 ### Currently Learning
-- **Machine Learning Concepts:** Currently exploring RAG, Agents, Agentic RAG, MCP Server etc.
-- **Cyber Security Concepts:** Focusing on web security & website pentesting through TryHackMe
-
----
-
-## 🚀 Interests & Focus
-- Crafting secure, efficient, and cloud-first full-stack solutions
-- Improving user experience through refined software architectures and design principles
-- Staying current with advancements in secure software development and DevOps practices
+- **Machine Learning Concepts:** Exploring RAG, Agents, Agentic RAG, and more.
+- **Cyber Security:** Focusing on web security & penetration testing through TryHackMe.
 
 ---
 
 ## 💼 Professional Experience
-- **Current Role:** Collaborating with [Kavel10](https://en.kavel10.nl/) (a pioneer in aerial surveying) & previously collaborated with [Rensa Family](https://rensa.nl/) (a major wholesale installation company) on behalf of HawarIT Limited (a Dutch-Bangladeshi software company)
-- **Availability:** Open to new opportunities starting **August 2025** as my current role has commitment requirement until then.
-- **Collaboration:** Eager to contribute to open-source projects and explore innovative ideas for new ventures
+
+**Software Engineer at HawarIT Limited**
+
+I've had the opportunity to work with industry leaders like [Kavel10](https://en.kavel10.nl/) (a pioneer in aerial surveying) and [Rensa Family](https://rensa.nl/) (a major wholesale installation company in the Netherlands) on behalf of HawarIT. My work involves developing multi-user Revit plugins, CRM portals, and various internal tools.
+
+**Key Achievements:**
+- **Revit Plugin Development:** Designed and developed a Revit plugin for Rensa Family, integrating product ordering, tracking, and management for Revit Prefabs and Drawings.
+- **Authentication & Security:** Implemented Microsoft Entra ID with SSO to streamline user login processes.
+- **Performance Optimization:** Optimized application performance and reduced database size by 30%, ensuring a smoother user experience and resource efficiency.
+- **Architecture & Scalability:** Led the redesign of a project using n-Tier architecture for better scalability and maintainability. Conducted R&D on microservices.
+- **UI/UX Enhancement:** Improved user interfaces based on design feedback to enhance user experience.
+- **Code Quality:** Refactored legacy code to align with clean coding standards.
+- **DevOps & Automation:** Enhanced CI/CD processes with pipeline modifications, unit testing, and automation using Azure services for deployment, monitoring, and reliability.
+- **Team Collaboration:** Actively participated in an Agile environment (daily scrums, sprint reviews, retrospectives) and mentored junior developers to foster team growth.
 
 ---
-## Get in Touch
 
-- [LinkedIn](https://www.linkedin.com/in/sadat-arefin-rafat/)
-- [Facebook](https://www.facebook.com/sadat.arefin.dev)
+## 🚀 Projects & Hackathons
+
+- **Geospatial Analysis:** Generated True Orthophotos using OpenDroneMap (ODM) and MicMac to enhance the accuracy of drone-captured maps.
+- **Computer Vision:** Explored Camera Pose Estimation with methods like ACE and GLACE for 3D reconstruction.
+- **Krishi Vision Hub:** Co-created a smart agriculture platform prototype during an AI Hackathon, featuring monitoring, predictive analytics, and market insights powered by 7 AI models.
+- **AI-Powered Search:** Built a user-intent-driven product search at an AI Engineering Hackathon using Llama, ChromaDB, FastAPI, and Streamlit, implementing RAG and Agentic patterns.
+
+---
+
+## 🌱 Interests & Hobbies
+
+- **Professional:** Crafting secure, efficient, and cloud-first solutions; improving user experience through refined architectures; and staying current with secure development practices.
+- **Personal:** I enjoy collecting and reading books. My personal library has over 1000 books (almost 1100 now)! I also love writing about technology and travel and alos love walking around the city to debug problems and brainstorm new ideas or just observe 
+
+---
+
+## 📫 Get in Touch
+
+- **Availability:** I am open to jobs, volunteering, freelancing, and building for a cause. I am available for relocation, remote, and on-site opportunities.
+- **Contact:** [LinkedIn](https://www.linkedin.com/in/sadat-arefin-rafat/) | [Twitter/X](https://x.com/SadatArefinDev) | [Hashnode](https://devrafat.hashnode.dev/)
 
 Thanks for stopping by! Feel free to reach out if you're interested in discussing technology, software architecture, or potential collaborations.
