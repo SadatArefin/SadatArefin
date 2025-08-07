@@ -1,6 +1,6 @@
 # Hi there, I'm Sadat Arefin Rafat 👋  
 
-Founder at **Refactor Logic** and full stack engineer who loves turning ideas into clean, scalable products. Current flagship: **RefactorPOS**, a point of sale that works for restaurants, retail and wholesale right out of the box.  
+Founder at **[Refactor Logic](https://www.refactorlogic.com/)** and full stack engineer who loves turning ideas into clean, scalable products. Current flagship: **RefactorPOS**, a point of sale that works for restaurants, retail and wholesale right out of the box.  
 
 I bring hands-on depth in .NET, Blazor, Django and Angular while diving into cloud, data and GenAI. I am also pursuing an Executive MBA in Finance at the University of Dhaka to fuse code with cash flow.
 
