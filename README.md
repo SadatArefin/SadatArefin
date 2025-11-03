@@ -34,7 +34,6 @@ I build intelligent software that bridges business needs with technology—acros
 
 ## Education
 
-**Executive MBA in Finance** — University of Dhaka  
 **B.Sc in Computer Science & Engineering** — Islamic University of Technology  
 - Thesis: Image/Video Super Resolution with GANs
 
