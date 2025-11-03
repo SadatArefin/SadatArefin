@@ -1,38 +1,8 @@
 # Sadat Arefin Rafat
 
-Founder at [Refactor Logic](https://www.refactorlogic.com/) | Full-stack & AI Engineer
+Full-stack Engineer
 
 I build intelligent software that bridges business needs with technology—across commerce, finance, education, and automation. Currently pursuing an Executive MBA in Finance at University of Dhaka, integrating technical expertise with business strategy.
-
----
-
-## What I'm Building
-
-### Active Products
-
-- **[RefactorPOS](https://github.com/SadatArefin/RefactorPOS)**: Universal Point-of-Sale for restaurants, retail, and wholesale. Built with .NET, Angular, Ionic, PostgreSQL, and SQLite. Supports offline-first sync, receipt printing, barcode scanning, multi-tenant architecture, and supply chain management.
-
-- **Refactor Finance**: Enterprise financial management platform using Django REST, React, and PostgreSQL. Features automated reconciliation, dynamic reporting, and payment integrations.
-
-- **Refactor Academy**: Scalable LMS supporting real-time collaboration, streaming, and AI-powered tutoring. Tech: .NET Core, Angular, Azure.
-
-- **RefactorPay**: Digital payment gateway with ML-based fraud detection, distributed transactions, and multi-currency support. Built on .NET, Kafka, React, Kubernetes.
-
-### AI/ML Projects
-
-- **Financial Analysis Copilot**: LLM-powered financial data assistant with RAG, multi-agent system, and semantic caching. Tech: Python, LangChain, OpenAI API.
-
-- **Textile Fabric Weave Detection**: Deep learning for automated QC in manufacturing, deployed on edge devices.
-
-- **Intent-Aware Search**: Semantic product search for e-commerce using dense/sparse retrieval and intent classification.
-
-### Domain Solutions
-
-- **Krishi Vision Hub**: Smart agriculture platform, winner of AI Hackathon, with crop/pest detection and advisory.
-
-- **Geospatial Analysis**: Satellite imagery-based crop monitoring and yield prediction using U-Net and Random Forest.
-
----
 
 ## Technologies & Skills
 
@@ -67,12 +37,6 @@ I build intelligent software that bridges business needs with technology—acros
 **Executive MBA in Finance** — University of Dhaka  
 **B.Sc in Computer Science & Engineering** — Islamic University of Technology  
 - Thesis: Image/Video Super Resolution with GANs
-
-**Certifications**:  
-- MLOps Engineering Specialization  
-- AI/ML Engineering Specialization
-
----
 
 ## Notable Projects & Open Source
 
