@@ -1,7 +1,5 @@
 # Sadat Arefin Rafat
 
-Full-stack Engineer
-
 I build intelligent software that bridges business needs with technology—across commerce, finance, education, and automation. Currently pursuing an Executive MBA in Finance at University of Dhaka, integrating technical expertise with business strategy.
 
 ## Technologies & Skills
